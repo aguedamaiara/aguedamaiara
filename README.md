@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aguedamaiara&label=Profile%20views&color=0e75b6&style=flat" alt="aguedamaiara" /> </p>
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aguedamaiara](https://github.com/aguedamaiara)
 
